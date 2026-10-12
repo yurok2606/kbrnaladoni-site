@@ -128,7 +128,7 @@ header {
   overflow: hidden;
   background:
     linear-gradient(90deg, rgba(12,35,24,.86), rgba(12,35,24,.46) 56%, rgba(12,35,24,.12)),
-    url("https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=2000&q=85")
+    url("../assets/images/main-photo.jpg")
     center 52% / cover;
 }
 
@@ -730,4 +730,5 @@ footer h4 { color: var(--gold); font-size: 13px; }
   .card-image { height: 210px; }
   .quick-item { flex-direction: column; align-items: start; }
 }
+
 
